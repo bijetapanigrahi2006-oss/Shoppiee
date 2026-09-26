@@ -19,24 +19,3 @@ Shoppiee is a shopping assistant that shops *with* you. It compares prices acros
 ## Tech stack
 
 Next.js 15 (App Router) · React 19 · TypeScript · Tailwind CSS v4 · Supabase (auth, Postgres with row-level security, storage) · Claude API · Three.js / React Three Fiber · Framer Motion · Recharts
-
-## Getting started
-
-```bash
-npm install
-cp .env.example .env.local   # then fill in your Supabase URL and key
-npm run dev                  # http://localhost:3000
-```
-
-[SETUP.md](SETUP.md) covers the full setup: creating the Supabase project, running the database migration and adding an optional Claude API key.
-
-```bash
-npm test         # unit tests for the price and verdict engine
-npm run build    # production build
-```
-
-## Current status
-
-Accounts, carts, lists, orders and settings are real and stored in Supabase. Product prices, price history and reviews come from a simulated demo catalog (`lib/providers/mock`) behind a pluggable data-provider interface, so a live price source can replace it without UI changes.
-
-Some product photos show the exact product: groceries and snacks come from Open Food Facts, and book covers from Open Library. Others are Creative Commons photos of the product type from Wikimedia Commons and Openverse, credited on each product page.
