@@ -1,0 +1,2804 @@
+{
+ "IdeaPad Slim 5 (Ryzen 7 7730U, 16GB, 512GB)": [
+  {
+   "local": "/products/uapi74.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/11vo0ov.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Vivobook 16X (i5-12450H, RTX 3050, 16GB)": [],
+ "Victus 15 (Ryzen 5 7535HS, RTX 2050)": [
+  {
+   "local": "/products/1o9n0fu.webp",
+   "fit": "cover",
+   "credit": "Laziz940 · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/qpqrlx.webp",
+   "fit": "cover",
+   "credit": "OhanaUnitedTalk page · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "LOQ 15 (i5-12450HX, RTX 4050, 16GB)": [
+  {
+   "local": "/products/uiw9zt.webp",
+   "fit": "cover",
+   "credit": "TAKA@P.P.R.S · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "MacBook Air M2 (8GB, 256GB)": [
+  {
+   "local": "/products/1lcu3y1.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1t3u7um.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Inspiron 14 (i5-1335U, 16GB, 512GB)": [
+  {
+   "local": "/products/maduj7.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/6eyv8k.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "TUF Gaming A15 (Ryzen 7 7435HS, RTX 4060)": [
+  {
+   "local": "/products/1lpc19.webp",
+   "fit": "cover",
+   "credit": "HuangWending18072009 · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/fsmci0.webp",
+   "fit": "cover",
+   "credit": "Losstreak · CC BY 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Aspire 7 (Ryzen 5 5625U, GTX 1650)": [
+  {
+   "local": "/products/1oea0z5.webp",
+   "fit": "cover",
+   "credit": "Jeff777BC · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Zenbook 14 OLED (Ultra 5, 16GB)": [
+  {
+   "local": "/products/1vrqd1o.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/aa8qcb.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Galaxy S23 FE 5G (8GB/128GB)": [
+  {
+   "local": "/products/1vy8m89.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1plxw0e.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "iPhone 15 (128GB)": [
+  {
+   "local": "/products/1alig37.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/ig4qtg.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Nord CE 4 5G (8GB/256GB)": [
+  {
+   "local": "/products/1bii4v5.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/y4rdra.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Redmi Note 13 Pro 5G": [
+  {
+   "local": "/products/dgkbau.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/3mukj5.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Pixel 8a (8GB/128GB)": [
+  {
+   "local": "/products/8t4dex.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1jjsje6.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "WH-1000XM5 Wireless ANC Headphones": [],
+ "Rockerz 550 Bluetooth Headphones": [
+  {
+   "local": "/products/1mrwnx1.webp",
+   "fit": "cover",
+   "credit": "Florian Fuchs · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Airdopes 141 TWS Earbuds": [
+  {
+   "local": "/products/2jfvns.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "AirPods Pro (2nd gen, USB-C)": [
+  {
+   "local": "/products/1e5f60l.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/16ep80q.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Buds 3 Pro ANC Earbuds": [
+  {
+   "local": "/products/1vc8wf4.webp",
+   "fit": "cover",
+   "credit": "Hajoon0102 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1i85z3p.webp",
+   "fit": "cover",
+   "credit": "Gannu03 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Crystal 4K Smart TV 43\"": [
+  {
+   "local": "/products/s9fvna.webp",
+   "fit": "cover",
+   "credit": "Maurizio Pesce from Milan, Italia · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Smart Watch Ultra (1.96\" AMOLED)": [
+  {
+   "local": "/products/8mbuym.webp",
+   "fit": "cover",
+   "credit": "D Eaketts · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/8m178h.webp",
+   "fit": "cover",
+   "credit": "TheArchivistMan · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Watch 7 Bluetooth 44mm": [
+  {
+   "local": "/products/7xbcks.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/gwfs57.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Stone 1200 Bluetooth Speaker": [
+  {
+   "local": "/products/1iqmvn3.webp",
+   "fit": "cover",
+   "credit": "Trougnouf · CC BY 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1o6ovx8.webp",
+   "fit": "cover",
+   "credit": "Pittigrilli · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Flip 6 Portable Speaker": [
+  {
+   "local": "/products/1iqmvn3.webp",
+   "fit": "cover",
+   "credit": "Trougnouf · CC BY 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/ir2tt2.webp",
+   "fit": "cover",
+   "credit": "Freekhou5 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "20000mAh Power Bank 22.5W": [
+  {
+   "local": "/products/1d7h7fy.webp",
+   "fit": "cover",
+   "credit": "Dinkun Chen · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/13fzppz.webp",
+   "fit": "cover",
+   "credit": "Dinkun Chen · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Ultra Sheer Sunscreen SPF 50+ (80ml)": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Glow+ Dewy Sunscreen SPF 50": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Sunscreen Aqua Gel SPF 50 PA++++": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Hybrid Sunscreen SPF 50 (Sunscoop)": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Anthelios UVMune 400 Invisible Fluid SPF 50+": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Sun Protect Matte Gel SPF 50": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Physical Sunscreen SPF 50 Mineral": [
+  {
+   "local": "/products/427fjz.webp",
+   "fit": "cover",
+   "credit": "Alpantex · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1wc4heu.webp",
+   "fit": "cover",
+   "credit": "Netstars22 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "10% Niacinamide Face Serum": [
+  {
+   "local": "/products/jaz114.webp",
+   "fit": "cover",
+   "credit": "Unknown · CC0 1.0 via rawpixel",
+   "src": "openverse"
+  }
+ ],
+ "Vitamin C Face Serum 10%": [
+  {
+   "local": "/products/1im2mev.webp",
+   "fit": "cover",
+   "credit": "css123 · BY-NC 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Hydro Boost Water Gel Moisturiser": [
+  {
+   "local": "/products/np0zg1.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/xiqq7q.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Matte Lipstick Long-Stay": [
+  {
+   "local": "/products/1acq6yc.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1cnll7z.webp",
+   "fit": "cover",
+   "credit": "Riley · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Kajal Colossal Smudge-proof": [],
+ "Soft Rose Tinted Lip Balm": [
+  {
+   "local": "/products/qe3ypv.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Baby Lips Moisturising Lip Balm SPF 20": [
+  {
+   "local": "/products/b3rd8k.webp",
+   "fit": "cover",
+   "credit": "Rawpixel Ltd · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Lip Sleeping Mask Berry": [
+  {
+   "local": "/products/1nq4c9o.webp",
+   "fit": "cover",
+   "credit": "tironasarah · BY-NC 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/cr80qv.webp",
+   "fit": "cover",
+   "credit": "ekosunaryo · BY-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Smudge Me Not Liquid Lipstick": [
+  {
+   "local": "/products/1cnll7z.webp",
+   "fit": "cover",
+   "credit": "Riley · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1yuk3vc.webp",
+   "fit": "cover",
+   "credit": "Jen · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "9to5 Primer + Matte Lip Color": [
+  {
+   "local": "/products/1cnll7z.webp",
+   "fit": "cover",
+   "credit": "Riley · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1yuk3vc.webp",
+   "fit": "cover",
+   "credit": "Jen · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Plumping Lip Gloss": [
+  {
+   "local": "/products/1mg1obw.webp",
+   "fit": "cover",
+   "credit": "Wikimedia Commons · Public domain",
+   "src": "wikimedia"
+  }
+ ],
+ "Fit Me Matte + Poreless Foundation": [
+  {
+   "local": "/products/11y7agf.webp",
+   "fit": "cover",
+   "credit": "Jen · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Fit Me Concealer": [
+  {
+   "local": "/products/10ambku.webp",
+   "fit": "cover",
+   "credit": "Jen · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "9to5 Flawless Matte Compact Powder": [
+  {
+   "local": "/products/1ybea6.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Baby Skin Instant Pore Eraser Primer": [],
+ "Cheek Blush Palette": [
+  {
+   "local": "/products/17v6j52.webp",
+   "fit": "cover",
+   "credit": "Kandance拍攝 · CC BY-SA 2.0 tw",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1d0d3qf.webp",
+   "fit": "cover",
+   "credit": "O Boticário SPFW · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Liquid Highlighter Glow Drops": [],
+ "Lash Sensational Sky High Mascara": [
+  {
+   "local": "/products/19djzl.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Eyeconic Liquid Eyeliner": [
+  {
+   "local": "/products/3z7lin.webp",
+   "fit": "cover",
+   "credit": "dolldalera · BY-NC-ND 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Eyeshadow Palette 12 Shades": [
+  {
+   "local": "/products/8qo5e3.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Absolute Gel Stylist Nail Colour": [
+  {
+   "local": "/products/ib1blt.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/17ln90f.webp",
+   "fit": "cover",
+   "credit": "evhoffman · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "All-in-One Makeup Setting Spray": [
+  {
+   "local": "/products/np0zg1.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/xiqq7q.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Professional Makeup Brush Set (12 pcs)": [
+  {
+   "local": "/products/1w4rz7r.webp",
+   "fit": "cover",
+   "credit": "Makeupweapons · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/17v6j52.webp",
+   "fit": "cover",
+   "credit": "Kandance拍攝 · CC BY-SA 2.0 tw",
+   "src": "wikimedia"
+  }
+ ],
+ "Micellar Cleansing Water (400 ml)": [],
+ "Purifying Neem Face Wash (150 ml)": [
+  {
+   "local": "/products/bzatn0.webp",
+   "fit": "cover",
+   "credit": "photogmateo · BY 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Gentle Skin Cleanser (250 ml)": [
+  {
+   "local": "/products/t6hewk.webp",
+   "fit": "cover",
+   "credit": "manicsquirrel · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/loxehh.webp",
+   "fit": "cover",
+   "credit": "NathanielRobertson · BY 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "J'adore Eau de Parfum (50 ml)": [
+  {
+   "local": "/products/1hsc3dy.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1vutza9.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Coco Noir Eau de Parfum (50 ml)": [
+  {
+   "local": "/products/p8bid4.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/n27hdj.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "CK One Eau de Toilette (100 ml)": [
+  {
+   "local": "/products/cnrfjq.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/f3y75d.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Bloom Eau de Parfum (50 ml)": [
+  {
+   "local": "/products/iu632m.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/w74761.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Floral Print Fit & Flare Midi Dress": [
+  {
+   "local": "/products/1adseuh.webp",
+   "fit": "cover",
+   "credit": "wearalldotcom · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/mm12ha.webp",
+   "fit": "cover",
+   "credit": "wearalldotcom · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Satin Slip Maxi Dress": [
+  {
+   "local": "/products/1dn23j3.webp",
+   "fit": "cover",
+   "credit": "Rhododendrites · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Tiered Cotton Maxi Dress": [
+  {
+   "local": "/products/oyr3gx.webp",
+   "fit": "cover",
+   "credit": "Maegan Tintari · CC BY 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/qvl5w6.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Bodycon Ribbed Mini Dress": [
+  {
+   "local": "/products/ea3xes.webp",
+   "fit": "cover",
+   "credit": "Jamie · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/qvl5w6.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Designer Puff-Sleeve Midi Dress": [],
+ "Chikankari Straight Kurta": [
+  {
+   "local": "/products/wsb9uy.webp",
+   "fit": "cover",
+   "credit": "Parineetaji123 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Oversized Graphic T-shirt": [
+  {
+   "local": "/products/ru4b93.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/beb5ko.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Slim Fit Stretch Jeans": [
+  {
+   "local": "/products/uoh7np.webp",
+   "fit": "cover",
+   "credit": "metromela · BY-SA 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/1q7b82i.webp",
+   "fit": "cover",
+   "credit": "Shopping Guide 7 · CC0 1.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Linen Blend Casual Shirt": [
+  {
+   "local": "/products/10p9hd7.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/mgvxb0.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Quilted Puffer Jacket": [
+  {
+   "local": "/products/zvtd8.webp",
+   "fit": "cover",
+   "credit": "Menswear Market · CC BY 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/58nlqt.webp",
+   "fit": "cover",
+   "credit": "Ralph Schulz · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Tote Handbag Structured": [
+  {
+   "local": "/products/1rcewbx.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1cdrb6a.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Aviator Sunglasses Polarised": [
+  {
+   "local": "/products/osxrwx.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/4ehfbq.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Aviator Sunglasses UV400": [
+  {
+   "local": "/products/93drwg.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/gocae7.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Printed Rayon A-Line Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Embroidered Straight Cotton Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Short Chikankari Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Anarkali Kurta with Dupatta Set": [
+  {
+   "local": "/products/efke5h.webp",
+   "fit": "cover",
+   "credit": "Rafi Ahmed Haven · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Sharara Suit Set with Dupatta": [
+  {
+   "local": "/products/1yxe9hm.webp",
+   "fit": "cover",
+   "credit": "Bollywood Hungama · CC BY 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Palazzo Kurta Set": [
+  {
+   "local": "/products/1rywww3.webp",
+   "fit": "cover",
+   "credit": "Zoya36 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Unstitched Salwar Suit Material": [
+  {
+   "local": "/products/4qove.webp",
+   "fit": "cover",
+   "credit": "eastendimages · BY-NC-ND 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/1alwelm.webp",
+   "fit": "cover",
+   "credit": "litlnemo · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Embroidered Net Lehenga Choli": [
+  {
+   "local": "/products/bq1dqt.webp",
+   "fit": "cover",
+   "credit": "Ray Anderson · CC BY 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/dqd509.webp",
+   "fit": "cover",
+   "credit": "https://www.kanchanfashion.com/ · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Bridal Velvet Lehenga with Zari Work": [
+  {
+   "local": "/products/14b1nx7.webp",
+   "fit": "cover",
+   "credit": "Rianta's · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/52omoa.webp",
+   "fit": "cover",
+   "credit": "Rianta's · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Mirror Work Navratri Chaniya Choli": [
+  {
+   "local": "/products/ce96uc.webp",
+   "fit": "cover",
+   "credit": "Shubhangi Parganiha · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/bq1dqt.webp",
+   "fit": "cover",
+   "credit": "Ray Anderson · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Banarasi Silk Saree with Blouse": [
+  {
+   "local": "/products/145p19b.webp",
+   "fit": "cover",
+   "credit": "Ekabhishek · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Printed Georgette Saree": [
+  {
+   "local": "/products/19ew204.webp",
+   "fit": "cover",
+   "credit": "Yann (talk) · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1bopouu.webp",
+   "fit": "cover",
+   "credit": "Kritzolina · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Kanjeevaram Pure Silk Saree": [
+  {
+   "local": "/products/1rws3ix.webp",
+   "fit": "cover",
+   "credit": "Kamal Venkit · CC BY 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/fk2905.webp",
+   "fit": "cover",
+   "credit": "Pachaiyappassilk · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "High-Low Hem Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Angrakha Style Cotton Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Kaftan Kurti with Tassels": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Flared Anarkali Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Bandhani Print Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Denim Short Kurti": [
+  {
+   "local": "/products/1a0njtj.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Men's Cotton Kurta Pyjama Set": [
+  {
+   "local": "/products/sz6t1y.webp",
+   "fit": "cover",
+   "credit": "Dsvyas · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Men's Embroidered Sherwani Set": [
+  {
+   "local": "/products/16g16ul.webp",
+   "fit": "cover",
+   "credit": "User:Pk041 · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Men's Nehru Jacket": [
+  {
+   "local": "/products/qd3su6.webp",
+   "fit": "cover",
+   "credit": "Fowler&amp;fowler at English Wikipedia · Public domain",
+   "src": "wikimedia"
+  }
+ ],
+ "High-Rise Flared Jeans": [
+  {
+   "local": "/products/euqewy.webp",
+   "fit": "cover",
+   "credit": "Maegan Tintari · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Wide-Leg Baggy Jeans": [
+  {
+   "local": "/products/19xg6h9.webp",
+   "fit": "cover",
+   "credit": "petitepanoply · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/1qk9d8y.webp",
+   "fit": "cover",
+   "credit": "FashionbyHe · BY 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Skinny Fit Jeans": [
+  {
+   "local": "/products/1mjrtsx.webp",
+   "fit": "cover",
+   "credit": "cjsysreform · BY-NC 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "90s Mom Fit Jeans": [],
+ "501 Original Straight Fit Jeans": [
+  {
+   "local": "/products/1fu4j66.webp",
+   "fit": "cover",
+   "credit": "Alex-501 · BY 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/t4numt.webp",
+   "fit": "cover",
+   "credit": "Phillip Pessar · BY 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Boyfriend Fit Distressed Jeans": [
+  {
+   "local": "/products/1yul382.webp",
+   "fit": "cover",
+   "credit": "Silar · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Bootcut Stretch Jeans": [
+  {
+   "local": "/products/59n1z0.webp",
+   "fit": "cover",
+   "credit": "jazzlah · BY 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/1vn6mu6.webp",
+   "fit": "cover",
+   "credit": "metromela · BY-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Relaxed Tapered Jeans": [],
+ "Baggy Cargo Jeans": [],
+ "Peplum Top with Flutter Sleeves": [
+  {
+   "local": "/products/7d0qdh.webp",
+   "fit": "cover",
+   "credit": "petitepanoply · BY-SA 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/dc7qhf.webp",
+   "fit": "cover",
+   "credit": "wearalldotcom · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Off-Shoulder Ruffle Top": [
+  {
+   "local": "/products/11q0ghz.webp",
+   "fit": "cover",
+   "credit": "Jamie · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Satin Corset Top": [
+  {
+   "local": "/products/taxyb9.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/lk5spm.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Ribbed Tank Top (Pack of 2)": [
+  {
+   "local": "/products/1po24cw.webp",
+   "fit": "cover",
+   "credit": "Keymeulen · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Puff Sleeve Square-Neck Top": [
+  {
+   "local": "/products/19c76vy.webp",
+   "fit": "cover",
+   "credit": "Pyelno · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/7t29d0.webp",
+   "fit": "cover",
+   "credit": "Pyelno · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Halter Neck Knit Top": [
+  {
+   "local": "/products/nu3c46.webp",
+   "fit": "cover",
+   "credit": "San Diego Shooter · BY-NC-ND 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/19dqb07.webp",
+   "fit": "cover",
+   "credit": "San Diego Shooter · BY-NC-ND 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Long Printed Tunic Top": [
+  {
+   "local": "/products/juchg5.webp",
+   "fit": "cover",
+   "credit": "princess toadie · BY-NC-ND 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/dscpcn.webp",
+   "fit": "cover",
+   "credit": "princess toadie · BY-NC-ND 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Square-Neck Bodysuit": [
+  {
+   "local": "/products/1ymrqoz.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/15aduxj.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Oversized Striped Boyfriend Shirt": [
+  {
+   "local": "/products/1cu5ozf.webp",
+   "fit": "cover",
+   "credit": "Shixart1985 · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Satin Button-Down Shirt (Women)": [
+  {
+   "local": "/products/1r3fvqt.webp",
+   "fit": "cover",
+   "credit": "Unknown authorUnknown author · CC BY 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Oxford Button-Down Shirt": [
+  {
+   "local": "/products/136amkg.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/z5zc9r.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Formal Slim Fit White Shirt": [
+  {
+   "local": "/products/10p9hd7.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/mgvxb0.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Checked Flannel Shirt": [
+  {
+   "local": "/products/b78iht.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1wultd2.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Classic Denim Shirt": [
+  {
+   "local": "/products/1hzd2a0.webp",
+   "fit": "cover",
+   "credit": "May Lee · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/vmbbvg.webp",
+   "fit": "cover",
+   "credit": "May Lee · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Printed Cuban Collar Shirt": [
+  {
+   "local": "/products/c76ace.webp",
+   "fit": "cover",
+   "credit": "Vera &amp; Jean-Christophe from Europe · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/du14p3.webp",
+   "fit": "cover",
+   "credit": "Daniel Ramirez from Honolulu, USA · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Mandarin Collar Kurta Shirt": [],
+ "Printed Co-ord Set (Shirt & Trousers)": [
+  {
+   "local": "/products/1xaogp.webp",
+   "fit": "cover",
+   "credit": "wearalldotcom · BY-NC-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Belted Utility Jumpsuit": [
+  {
+   "local": "/products/1wgzvl5.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1ijfsva.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Sequin Evening Gown": [
+  {
+   "local": "/products/30dnsk.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/wz3h7n.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Satin Wrap Midi Dress": [
+  {
+   "local": "/products/1x2czhx.webp",
+   "fit": "cover",
+   "credit": "ptxdview · BY 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Denim Shirt Dress": [
+  {
+   "local": "/products/1tsjwwv.webp",
+   "fit": "cover",
+   "credit": "ChestnutHorse100 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1fdpgxg.webp",
+   "fit": "cover",
+   "credit": "StephanieMe · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Pleated Midi Skirt": [
+  {
+   "local": "/products/1cpca6k.webp",
+   "fit": "cover",
+   "credit": "AntonBrent · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Ribbed Crop Top": [
+  {
+   "local": "/products/jcj688.webp",
+   "fit": "cover",
+   "credit": "Jocelyn Saurini · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Women's Tailored Blazer": [
+  {
+   "local": "/products/5sajvs.webp",
+   "fit": "cover",
+   "credit": "Tobias ToMar Maier · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1qvu22n.webp",
+   "fit": "cover",
+   "credit": "Jamie · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Oversized Hoodie": [
+  {
+   "local": "/products/omdw1w.webp",
+   "fit": "cover",
+   "credit": "YoussefTahoun · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/wsi5og.webp",
+   "fit": "cover",
+   "credit": "Syced · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Classic Polo T-shirt": [
+  {
+   "local": "/products/1j5qt9o.webp",
+   "fit": "cover",
+   "credit": "Wikimedia Foundation · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/7r32cz.webp",
+   "fit": "cover",
+   "credit": "Mukhayyar · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Slim Fit Chinos": [
+  {
+   "local": "/products/tzylat.webp",
+   "fit": "cover",
+   "credit": "Kuha455405 · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Relaxed Cargo Pants": [
+  {
+   "local": "/products/1jywo6y.webp",
+   "fit": "cover",
+   "credit": "Ocdp · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1v97y53.webp",
+   "fit": "cover",
+   "credit": "Ocdp · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Classic Denim Trucker Jacket": [
+  {
+   "local": "/products/15pi9sa.webp",
+   "fit": "cover",
+   "credit": "Pittigrilli · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1twqfrk.webp",
+   "fit": "cover",
+   "credit": "NikosLikomitros · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Air Force 1 '07 Sneakers": [
+  {
+   "local": "/products/1cd03ww.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/14a7gvj.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Court Classic Low-Top Sneakers": [
+  {
+   "local": "/products/kqjo3q.webp",
+   "fit": "cover",
+   "credit": "Mizael Contreras · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/m7wws3.webp",
+   "fit": "cover",
+   "credit": "Maksim Sokolov and Melania Sokolova (Toronto) · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Smash V2 Leather Sneakers": [
+  {
+   "local": "/products/kqjo3q.webp",
+   "fit": "cover",
+   "credit": "Mizael Contreras · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/m7wws3.webp",
+   "fit": "cover",
+   "credit": "Maksim Sokolov and Melania Sokolova (Toronto) · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Grand Court Base Sneakers": [
+  {
+   "local": "/products/kqjo3q.webp",
+   "fit": "cover",
+   "credit": "Mizael Contreras · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/m7wws3.webp",
+   "fit": "cover",
+   "credit": "Maksim Sokolov and Melania Sokolova (Toronto) · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Revolution 7 Running Shoes": [
+  {
+   "local": "/products/14jl85u.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1ithoj1.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Ultraboost Light Running Shoes": [
+  {
+   "local": "/products/1iq4z1u.webp",
+   "fit": "cover",
+   "credit": "Petar Milošević · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/q90v87.webp",
+   "fit": "cover",
+   "credit": "Tiia Monto · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Men's Mesh Running Shoes": [
+  {
+   "local": "/products/1iq4z1u.webp",
+   "fit": "cover",
+   "credit": "Petar Milošević · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/q90v87.webp",
+   "fit": "cover",
+   "credit": "Tiia Monto · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Embroidered Ethnic Juttis": [
+  {
+   "local": "/products/1w25zk9.webp",
+   "fit": "cover",
+   "credit": "Ekabhishek · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1uhgdyd.webp",
+   "fit": "cover",
+   "credit": "MuLaN™ · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Block Heel Sandals": [
+  {
+   "local": "/products/1ehzuri.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/ugyta1.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "22KT Gold Stud Earrings": [
+  {
+   "local": "/products/lk9mmp.webp",
+   "fit": "cover",
+   "credit": "Gary Lee Todd, Ph.D. · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/61r0xq.webp",
+   "fit": "cover",
+   "credit": "Gary Lee Todd, Ph.D. · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Sterling Silver Pendant Necklace": [
+  {
+   "local": "/products/1g9568d.webp",
+   "fit": "cover",
+   "credit": "W.carter · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1yhe35u.webp",
+   "fit": "cover",
+   "credit": "Rama pour Wikimédia France · CC BY-SA 2.0 fr",
+   "src": "wikimedia"
+  }
+ ],
+ "Diamond Solitaire Ring 18KT": [
+  {
+   "local": "/products/1mpsagq.webp",
+   "fit": "cover",
+   "credit": "Jeffrey Beall · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/bn6a56.webp",
+   "fit": "cover",
+   "credit": "Mark Somma · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Gold-Plated Kundan Jhumkas": [
+  {
+   "local": "/products/vj8jai.webp",
+   "fit": "cover",
+   "credit": "SpeakingArch · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1g0krz0.webp",
+   "fit": "cover",
+   "credit": "SpeakingArch · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Kundan Choker Necklace Set": [
+  {
+   "local": "/products/1gzrz1a.webp",
+   "fit": "cover",
+   "credit": "SpeakingArch · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/kasf28.webp",
+   "fit": "cover",
+   "credit": "Percy s a carballo · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Pearl Layered Choker": [
+  {
+   "local": "/products/1dyknm0.webp",
+   "fit": "cover",
+   "credit": "W.carter · CC BY 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1jx9jka.webp",
+   "fit": "cover",
+   "credit": "W.carter · CC BY 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Layered Gold Chain Necklace": [
+  {
+   "local": "/products/1g9568d.webp",
+   "fit": "cover",
+   "credit": "W.carter · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1yhe35u.webp",
+   "fit": "cover",
+   "credit": "Rama pour Wikimédia France · CC BY-SA 2.0 fr",
+   "src": "wikimedia"
+  }
+ ],
+ "Temple Gold Mangalsutra": [
+  {
+   "local": "/products/1aw7meg.webp",
+   "fit": "cover",
+   "credit": "Sankoswal · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/twcfum.webp",
+   "fit": "cover",
+   "credit": "Ackroydman · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Sterling Silver Anklets (Pair)": [
+  {
+   "local": "/products/dpvn4.webp",
+   "fit": "cover",
+   "credit": "SpeakingArch · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/mtnxi7.webp",
+   "fit": "cover",
+   "credit": "V Karnathia · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Beaded Boho Anklet": [
+  {
+   "local": "/products/wrgivd.webp",
+   "fit": "cover",
+   "credit": "Niki Shyfeet · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1suk56r.webp",
+   "fit": "cover",
+   "credit": "Afimaame · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Friendship Bracelets (Set of 5)": [
+  {
+   "local": "/products/1bbob6o.webp",
+   "fit": "cover",
+   "credit": "Ra'ike (see also: de:Benutzer:Ra'ike) · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1k0fzcg.webp",
+   "fit": "cover",
+   "credit": "Akashdoley13 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Charm Bracelet Sterling Silver": [
+  {
+   "local": "/products/emzui9.webp",
+   "fit": "cover",
+   "credit": "affinity · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Diamond Tennis Bracelet 18KT": [
+  {
+   "local": "/products/lqg1ac.webp",
+   "fit": "cover",
+   "credit": "Wikimedia Commons · Public domain",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/bz8r4l.webp",
+   "fit": "cover",
+   "credit": "Wikimedia Commons · Public domain",
+   "src": "wikimedia"
+  }
+ ],
+ "Men's Silver Kada Bracelet": [
+  {
+   "local": "/products/118bl0c.webp",
+   "fit": "cover",
+   "credit": "Harisingh at en.wikipedia · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1ef9mtp.webp",
+   "fit": "cover",
+   "credit": "Hari Singh · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Gold-Plated Bangles Set (4 pcs)": [
+  {
+   "local": "/products/1mwr2wx.webp",
+   "fit": "cover",
+   "credit": "Anoopan at Malayalam Wikipedia · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Oxidised Silver Bangles": [
+  {
+   "local": "/products/1mwr2wx.webp",
+   "fit": "cover",
+   "credit": "Anoopan at Malayalam Wikipedia · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Gold Hoop Earrings": [
+  {
+   "local": "/products/61r0xq.webp",
+   "fit": "cover",
+   "credit": "Gary Lee Todd, Ph.D. · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "Green Crystal Drop Earrings": [
+  {
+   "local": "/products/19itaht.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/vgbeli.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Diamond Nose Pin 14KT": [
+  {
+   "local": "/products/xyv4vh.webp",
+   "fit": "cover",
+   "credit": "Jainamishra · CC BY 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Kundan Maang Tikka": [],
+ "Men's Gold Chain 22KT": [
+  {
+   "local": "/products/rdkd55.webp",
+   "fit": "cover",
+   "credit": "Unknown authorUnknown author · CC BY 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Karishma Analog Watch (Men)": [
+  {
+   "local": "/products/ikuzxc.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/q5tif3.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Raga Viva Analog Watch (Women)": [
+  {
+   "local": "/products/14rmfgc.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1q0pkzv.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Chronograph Watch (Men)": [
+  {
+   "local": "/products/w9a1w7.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1ynru6w.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "3-Seater Fabric Sofa": [
+  {
+   "local": "/products/137w0hf.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/b2ib7o.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Orthopaedic Memory Foam Mattress (Queen)": [
+  {
+   "local": "/products/1s17xjj.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/12wils.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Engineered Wood Study Table": [
+  {
+   "local": "/products/1hbfmun.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1wexvdc.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Ergonomic Mesh Office Chair": [
+  {
+   "local": "/products/1fcekh1.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/9p1swa.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Non-stick Cookware Set (3 pc)": [
+  {
+   "local": "/products/6dsnqn.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/z73iu5.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Air Fryer 4.2L Digital": [
+  {
+   "local": "/products/1ceo36b.webp",
+   "fit": "cover",
+   "credit": "I am R. · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Mixer Grinder 750W (3 jars)": [
+  {
+   "local": "/products/1vsa2c3.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  },
+  {
+   "local": "/products/1fwv31g.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Ceramic Table Lamp": [
+  {
+   "local": "/products/dsx8fc.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Cotton Double Bedsheet with 2 Pillow Covers": [
+  {
+   "local": "/products/hl2yz.webp",
+   "fit": "cover",
+   "credit": "Federal Bureau of Investigation · Public domain",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1q9mvnx.webp",
+   "fit": "cover",
+   "credit": "Liz Lawley · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Fresh Bananas Robusta (1 dozen)": [
+  {
+   "local": "/products/5e23zr.webp",
+   "fit": "cover",
+   "credit": "Wilfredor · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/w4l7vq.webp",
+   "fit": "cover",
+   "credit": "రవిచంద్ర · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Shimla Apples (1 kg)": [
+  {
+   "local": "/products/166dt3s.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Alphonso Mangoes (1 dozen)": [
+  {
+   "local": "/products/1l3agia.webp",
+   "fit": "cover",
+   "credit": "G patkar at English Wikipedia · Public domain",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1do1cfj.webp",
+   "fit": "cover",
+   "credit": "Ashwin Baindur · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Tomatoes Hybrid (1 kg)": [
+  {
+   "local": "/products/pltjtl.webp",
+   "fit": "cover",
+   "credit": "Michal Klajban · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/a64if9.webp",
+   "fit": "cover",
+   "credit": "Softeis · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Onions (1 kg)": [
+  {
+   "local": "/products/u8x1rc.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Broccoli (1 pc, ~300g)": [
+  {
+   "local": "/products/6unk5j.webp",
+   "fit": "cover",
+   "credit": "Fir0002 · GFDL 1.2",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/dqkro6.webp",
+   "fit": "cover",
+   "credit": "George Chernilevsky · CC BY 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Full Cream Milk (1 L)": [
+  {
+   "local": "/products/kxgziz.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/10tabbp.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Salted Butter (500 g)": [
+  {
+   "local": "/products/ar0pcu.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Basmati Rice Classic (5 kg)": [
+  {
+   "local": "/products/atqma7.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/e907oe.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Whole Wheat Atta (10 kg)": [
+  {
+   "local": "/products/18flijp.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Toor Dal (1 kg)": [
+  {
+   "local": "/products/74u27l.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/t308pf.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Cold Pressed Groundnut Oil (1 L)": [
+  {
+   "local": "/products/1833dm5.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/e1bxmj.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Dark Chocolate 70% (100 g)": [
+  {
+   "local": "/products/rd2l5k.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1ta5c67.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Masala Instant Noodles (Pack of 12)": [
+  {
+   "local": "/products/16wqn7v.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Green Tea Bags (100 pcs)": [
+  {
+   "local": "/products/1xncved.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/10j5voz.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Parle-G Original Glucose Biscuits (800 g)": [
+  {
+   "local": "/products/zdkflm.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/107rhwv.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Good Day Cashew Cookies (600 g)": [
+  {
+   "local": "/products/o0jr7r.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/a6elbh.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Oreo Chocolate Creme Biscuits (300 g)": [
+  {
+   "local": "/products/1wsoru0.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/dhi1sf.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Dark Fantasy Choco Fills (300 g)": [
+  {
+   "local": "/products/16uwu57.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/ve6y49.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Hide & Seek Chocolate Chip Cookies (200 g)": [
+  {
+   "local": "/products/1k9mzm8.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Marie Gold Biscuits (1 kg)": [
+  {
+   "local": "/products/19t06aq.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/19skaxp.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Fruit Cake (300 g)": [
+  {
+   "local": "/products/1noggx9.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1c04swn.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Chocolate Cup Cakes (Pack of 6)": [
+  {
+   "local": "/products/71qomr.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1eru055.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Kurkure Masala Munch (90 g)": [
+  {
+   "local": "/products/1kj1rft.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/mx4497.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Lay's India's Magic Masala (90 g)": [
+  {
+   "local": "/products/1ueb7zp.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1nqf15a.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Bingo Mad Angles Achaari Masti (130 g)": [
+  {
+   "local": "/products/5q0db7.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/n7z973.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Aloo Bhujia (1 kg)": [
+  {
+   "local": "/products/1wabflm.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/16gtkon.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Pringles Original (134 g)": [
+  {
+   "local": "/products/n64pk1.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Doritos Nacho Cheese (150 g)": [
+  {
+   "local": "/products/366p85.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1nktoi3.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Dairy Milk Silk (150 g)": [
+  {
+   "local": "/products/1lf3tvv.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "KitKat 4 Finger (Pack of 6)": [
+  {
+   "local": "/products/alil7h.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/18i90xv.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "5 Star Chocolate Bar (Pack of 10)": [
+  {
+   "local": "/products/apkh9p.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/k3mms3.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Corn Flakes Original (875 g)": [
+  {
+   "local": "/products/124f9hj.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/qmhrbe.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Quaker Oats (1 kg)": [
+  {
+   "local": "/products/pirjtf.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1dvy8kj.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Crunchy Peanut Butter (1 kg)": [
+  {
+   "local": "/products/10z810f.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/16dl0eh.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Fresh Tomato Ketchup (950 g)": [
+  {
+   "local": "/products/1xnu2x8.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Mixed Fruit Juice (1 L)": [
+  {
+   "local": "/products/tpsyc8.webp",
+   "fit": "cover",
+   "credit": "Keith Williamson · BY 2.0 via flickr",
+   "src": "openverse"
+  },
+  {
+   "local": "/products/82hwnm.webp",
+   "fit": "cover",
+   "credit": "avlxyz · BY-SA 2.0 via flickr",
+   "src": "openverse"
+  }
+ ],
+ "Coca-Cola (750 ml)": [
+  {
+   "local": "/products/t0rojv.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/8d0wp9.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "Yippee Magic Masala Noodles (Pack of 6)": [
+  {
+   "local": "/products/oq460n.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1pz7368.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "California Almonds (500 g)": [
+  {
+   "local": "/products/1gnin0m.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  },
+  {
+   "local": "/products/1s58rxu.webp",
+   "fit": "contain",
+   "credit": "Open Food Facts (CC BY-SA)",
+   "src": "openfoodfacts"
+  }
+ ],
+ "English Willow Cricket Bat": [
+  {
+   "local": "/products/93vcg2.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Yoga Mat 6mm Anti-slip": [
+  {
+   "local": "/products/1wlf5sm.webp",
+   "fit": "cover",
+   "credit": "Nenad Stojkovic · CC BY 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Adjustable Dumbbell Set 20kg": [
+  {
+   "local": "/products/crvvzt.webp",
+   "fit": "cover",
+   "credit": "Ser Amantio di Nicolao · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1t6j8lv.webp",
+   "fit": "cover",
+   "credit": "Ser Amantio di Nicolao · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Badminton Racquet Nanoray": [
+  {
+   "local": "/products/1l4u167.webp",
+   "fit": "cover",
+   "credit": "Dllu · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Football Size 5 FIFA Quality": [
+  {
+   "local": "/products/2wnm64.webp",
+   "fit": "contain",
+   "src": "dummyjson"
+  }
+ ],
+ "Hybrid Cycle 21-speed": [
+  {
+   "local": "/products/it4yxq.webp",
+   "fit": "cover",
+   "credit": "The original uploader was Icd at English Wikipedia. · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1g5rls2.webp",
+   "fit": "cover",
+   "credit": "Petar Milošević · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Atomic Habits": [
+  {
+   "local": "/products/1pn2dsw.webp",
+   "fit": "contain",
+   "credit": "Cover via Open Library",
+   "src": "openlibrary"
+  }
+ ],
+ "The Psychology of Money": [
+  {
+   "local": "/products/1ejjzks.webp",
+   "fit": "contain",
+   "credit": "Cover via Open Library",
+   "src": "openlibrary"
+  }
+ ],
+ "Hands-On Machine Learning (3rd ed.)": [
+  {
+   "local": "/products/1y54lli.webp",
+   "fit": "contain",
+   "credit": "Cover via Open Library",
+   "src": "openlibrary"
+  }
+ ],
+ "Ikigai": [
+  {
+   "local": "/products/1p3f7d4.webp",
+   "fit": "contain",
+   "credit": "Cover via Open Library",
+   "src": "openlibrary"
+  }
+ ],
+ "Clean Code": [
+  {
+   "local": "/products/1uqxrva.webp",
+   "fit": "contain",
+   "credit": "Cover via Open Library",
+   "src": "openlibrary"
+  }
+ ],
+ "LEGO Classic Creative Bricks (484 pcs)": [
+  {
+   "local": "/products/18rdkch.webp",
+   "fit": "cover",
+   "credit": "Grendelkhan · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/8tbeqf.webp",
+   "fit": "cover",
+   "credit": "Ralf Roletschek · GFDL 1.2",
+   "src": "wikimedia"
+  }
+ ],
+ "Remote Control Stunt Car": [
+  {
+   "local": "/products/1j6490p.webp",
+   "fit": "cover",
+   "credit": "Rundvald · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/yrqab1.webp",
+   "fit": "cover",
+   "credit": "BITalino · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Giant Teddy Bear (3 ft)": [
+  {
+   "local": "/products/fkmp9v.webp",
+   "fit": "cover",
+   "credit": "Clément Bucco-Lechat · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "Monopoly Classic Board Game": [
+  {
+   "local": "/products/1y56abc.webp",
+   "fit": "cover",
+   "credit": "Horst Frank · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/ej5ira.webp",
+   "fit": "cover",
+   "credit": "fir0002 flagstaffotos [at] gmail.com Canon 20D + Canon 70-20 · GFDL 1.2",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:kurti": [
+  {
+   "local": "/products/ui1rh3.webp",
+   "fit": "cover",
+   "credit": "NabeelJV · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/13t57ad.webp",
+   "fit": "cover",
+   "credit": "AmanAgrahari01 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/180mfbu.webp",
+   "fit": "cover",
+   "credit": "AmanAgrahari01 · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1dm7jtm.webp",
+   "fit": "cover",
+   "credit": "satemkemet · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:lehenga": [
+  {
+   "local": "/products/14np964.webp",
+   "fit": "cover",
+   "credit": "Iwaqarhashmi · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/wo34no.webp",
+   "fit": "cover",
+   "credit": "Siddharth Srivastava · CC BY-SA 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/acnob2.webp",
+   "fit": "cover",
+   "credit": "Janavi · CC BY-SA 3.0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:saree": [
+  {
+   "local": "/products/vs65pe.webp",
+   "fit": "cover",
+   "credit": "Suyash.dwivedi · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/mrfyt.webp",
+   "fit": "cover",
+   "credit": "Art Projects MKCL KF · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/atj2mh.webp",
+   "fit": "cover",
+   "credit": "Sonisha2112 · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/sjlfy4.webp",
+   "fit": "cover",
+   "credit": "आर्या जोशी · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:jeans": [
+  {
+   "local": "/products/qevy7t.webp",
+   "fit": "cover",
+   "credit": "1Veertje · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1gm9253.webp",
+   "fit": "cover",
+   "credit": "Hadret · CC BY 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/197b3mi.webp",
+   "fit": "cover",
+   "credit": "TinTinTwoTone · Public domain",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/17wlshy.webp",
+   "fit": "cover",
+   "credit": "Mithun Kumar · CC BY 3.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/46hqk3.webp",
+   "fit": "cover",
+   "credit": "Keymeulen · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:top": [],
+ "__type:dress": [
+  {
+   "local": "/products/1j4ow9p.webp",
+   "fit": "cover",
+   "credit": "USAID Africa Bureau · Public domain",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/9rlaei.webp",
+   "fit": "cover",
+   "credit": "ZigmarsBerzins · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/15fel2s.webp",
+   "fit": "cover",
+   "credit": "Super Rabbit One from UK · CC BY-SA 2.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/wsj617.webp",
+   "fit": "cover",
+   "credit": "Barbara Segal · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1syeqfe.webp",
+   "fit": "cover",
+   "credit": "Rhododendrites · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/kst60t.webp",
+   "fit": "cover",
+   "credit": "Stany Dederen for MoMu · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1hvvg70.webp",
+   "fit": "cover",
+   "credit": "Staff photographer, Rhode Island School of Design Museum of  · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/17ounou.webp",
+   "fit": "cover",
+   "credit": "Staff photographer, Rhode Island School of Design Museum of  · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/f4elpc.webp",
+   "fit": "cover",
+   "credit": "Staff photographer, Rhode Island School of Design Museum of  · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/aftl7k.webp",
+   "fit": "cover",
+   "credit": "Staff photographer, Rhode Island School of Design Museum of  · CC0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:shirt": [
+  {
+   "local": "/products/1jytnuk.webp",
+   "fit": "cover",
+   "credit": "FASTILY · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1mktkh1.webp",
+   "fit": "cover",
+   "credit": "FASTILY · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/14cqhiq.webp",
+   "fit": "cover",
+   "credit": "FASTILY · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1nyfbtz.webp",
+   "fit": "cover",
+   "credit": "FASTILY · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1d1k0sp.webp",
+   "fit": "cover",
+   "credit": "Fahad Faisal · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/127v948.webp",
+   "fit": "cover",
+   "credit": "May Lee · CC BY-SA 2.0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:earrings": [
+  {
+   "local": "/products/10rzbm5.webp",
+   "fit": "cover",
+   "credit": "Suyash Dwivedi · CC BY-SA 4.0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/hig7co.webp",
+   "fit": "cover",
+   "credit": "David Ring · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/53yfrc.webp",
+   "fit": "cover",
+   "credit": "SpeakingArch · CC BY-SA 4.0",
+   "src": "wikimedia"
+  }
+ ],
+ "__type:bracelet": [
+  {
+   "local": "/products/19ezg4m.webp",
+   "fit": "cover",
+   "credit": "Rama · CC BY-SA 3.0 fr",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1v6bgct.webp",
+   "fit": "cover",
+   "credit": "David Ring · CC0",
+   "src": "wikimedia"
+  },
+  {
+   "local": "/products/1rsjslm.webp",
+   "fit": "cover",
+   "credit": "Jastrow · Public domain",
+   "src": "wikimedia"
+  }
+ ]
+}
