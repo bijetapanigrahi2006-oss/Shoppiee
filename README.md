@@ -2,7 +2,7 @@
 
 Just creating an app which can compare prices of different products from different platforms, compare and suggest the best offer.
 
-Shoppiee is an Indian shopping assistant that shops *with* you. It compares prices across stores, flags fake discounts, and tells you whether to buy now or wait. It also works from a description of what you need, or a screenshot of something you like, to find the right product.
+Shoppiee is a shopping assistant that shops *with* you. It compares prices across stores, flags fake discounts, and tells you whether to buy now or wait. It also works from a description of what you need, or a screenshot of something you like, to find the right product.
 
 ## Features
 
