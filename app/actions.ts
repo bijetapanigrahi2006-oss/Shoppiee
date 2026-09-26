@@ -21,26 +21,45 @@ async function productOrThrow(productId: string) {
 // ───────────── cart ─────────────
 export async function addToCart(productId: string, store?: StoreId): Promise<Result> {
   const { supabase, user } = await requireUser();
+  const r = await putInCart(supabase, user.id, productId, store);
+  revalidatePath("/", "layout");
+  return r;
+}
+
+/** Adds several products in one go (curated lists, AI picks). */
+export async function addManyToCart(items: { productId: string; store?: StoreId }[]): Promise<Result> {
+  const { supabase, user } = await requireUser();
+  for (const it of items.slice(0, 30)) {
+    const r = await putInCart(supabase, user.id, it.productId, it.store);
+    if (!r.ok) {
+      revalidatePath("/", "layout");
+      return r;
+    }
+  }
+  revalidatePath("/", "layout");
+  return { ok: true };
+}
+
+async function putInCart(supabase: Awaited<ReturnType<typeof requireUser>>["supabase"], userId: string, productId: string, store?: StoreId): Promise<Result> {
   const p = await productOrThrow(productId);
   const snap = snapshotOf(p, store);
   const { data: existing } = await supabase
     .from("cart_items")
     .select("id, qty")
-    .eq("user_id", user.id)
+    .eq("user_id", userId)
     .eq("product_id", productId)
     .eq("store", snap.store)
     .maybeSingle();
   const { error } = existing
     ? await supabase.from("cart_items").update({ qty: existing.qty + 1 }).eq("id", existing.id)
     : await supabase.from("cart_items").insert({
-        user_id: user.id,
+        user_id: userId,
         product_id: productId,
         store: snap.store,
         price_snapshot: snap.price,
         url: snap.url,
         snapshot: snap,
       });
-  revalidatePath("/", "layout");
   return error ? { ok: false, error: error.message } : { ok: true };
 }
 

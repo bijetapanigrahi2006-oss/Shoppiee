@@ -5,7 +5,7 @@ import { themeFor } from "@/lib/theme/categories";
 import { inr, cn } from "@/lib/utils";
 import { ProductArt } from "./ProductArt";
 import { StoreBadge } from "./StoreBadge";
-import { AddToCartButton, WishButton } from "./ActionButtons";
+import { AddToCartButton, ShareButton, WishButton } from "./ActionButtons";
 
 export interface CardProduct {
   id: string;
@@ -68,7 +68,7 @@ export function ProductCard({
   return (
     <Link href={`/product/${p.id}`} className="card card-glow group relative flex flex-col overflow-hidden">
       <div className="relative aspect-[4/5] overflow-hidden">
-        <ProductArt photo={p.photo} fit={p.photoFit} category={p.category} alt={p.name} className="rounded-none" />
+        <ProductArt photo={p.photo} fit={p.photoFit} category={p.category} alt={p.name} className="rounded-none transition duration-700 group-hover:scale-105" />
         <div className="pointer-events-none absolute inset-x-0 bottom-0 h-1/3 bg-gradient-to-t from-black/35 to-transparent" />
         {badge && (
           <span className="chip absolute left-3 top-3 text-white shadow-lg" style={{ background: theme.gradient }}>
@@ -77,6 +77,7 @@ export function ProductCard({
         )}
         {!badge && off >= 10 && <span className="chip absolute left-3 top-3 bg-black/70 text-white backdrop-blur">{off}% off</span>}
         <WishButton productId={p.id} initial={wished} className="absolute right-3 top-3" />
+        <ShareButton productId={p.id} name={p.name} className="absolute right-3 top-14 transition sm:translate-x-2 sm:opacity-0 sm:group-hover:translate-x-0 sm:group-hover:opacity-100" />
         <span className="absolute bottom-3 left-3">
           <Rating value={p.rating} />
         </span>

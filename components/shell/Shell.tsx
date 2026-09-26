@@ -1,8 +1,8 @@
 "use client";
 
 import Link from "next/link";
-import { usePathname, useRouter } from "next/navigation";
-import { useEffect, useState } from "react";
+import { usePathname } from "next/navigation";
+import { useCallback, useEffect, useState } from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import {
   Home,
@@ -25,6 +25,8 @@ import {
 import { cn } from "@/lib/utils";
 import { Toaster } from "@/components/ui/toast";
 import { Logo, LogoMark } from "@/components/brand/Logo";
+import { useSignal } from "@/components/ui/effects";
+import { HeaderSearch } from "./HeaderSearch";
 
 interface ShellProps {
   user: { name: string; email: string; avatar: string };
@@ -78,8 +80,9 @@ function MenuGlyph() {
 export function Shell({ user, cartCount, wishCount, children }: ShellProps) {
   const [open, setOpen] = useState(false);
   const pathname = usePathname();
-  const router = useRouter();
-  const [q, setQ] = useState("");
+  const [bump, setBump] = useState({ cart: 0, wish: 0 });
+  useSignal("cart", useCallback(() => setBump((b) => ({ ...b, cart: b.cart + 1 })), []));
+  useSignal("wish", useCallback(() => setBump((b) => ({ ...b, wish: b.wish + 1 })), []));
 
   useEffect(() => setOpen(false), [pathname]);
   useEffect(() => {
@@ -175,26 +178,17 @@ export function Shell({ user, cartCount, wishCount, children }: ShellProps) {
           <Link href="/" className="sm:hidden" aria-label="Shoppiee home">
             <LogoMark size={34} />
           </Link>
-          <form
-            className="input-icon mx-auto hidden max-w-xl flex-1 md:block"
-            onSubmit={(e) => {
-              e.preventDefault();
-              if (q.trim()) router.push(`/search?q=${encodeURIComponent(q.trim())}`);
-            }}
-          >
-            <Search />
-            <input className="input rounded-full py-2.5" placeholder="Search any product across all stores…" value={q} onChange={(e) => setQ(e.target.value)} />
-          </form>
+          <HeaderSearch className="mx-auto hidden max-w-xl flex-1 md:block" />
           <div className="ml-auto flex items-center gap-1 md:ml-0">
             <Link href="/search" className="rounded-full p-2.5 hover:bg-surface-2 md:hidden" aria-label="Search">
               <Search className="h-5 w-5" />
             </Link>
             <Link href="/wishlist" className="relative rounded-full p-2.5 hover:bg-surface-2" aria-label="Wishlist">
-              <Heart className="h-5 w-5" />
+              <Heart key={`w${bump.wish}`} className={cn("h-5 w-5", bump.wish > 0 && "bump")} />
               {wishCount > 0 && <span className="absolute right-0.5 top-0.5 grid h-4 min-w-4 place-items-center rounded-full bg-rose-500 px-1 text-[10px] font-bold text-white">{wishCount}</span>}
             </Link>
-            <Link href="/cart" className="relative rounded-full p-2.5 hover:bg-surface-2" aria-label="Cart">
-              <ShoppingCart className="h-5 w-5" />
+            <Link href="/cart" id="cart-icon" className="relative rounded-full p-2.5 hover:bg-surface-2" aria-label="Cart">
+              <ShoppingCart key={`c${bump.cart}`} className={cn("h-5 w-5", bump.cart > 0 && "bump")} />
               {cartCount > 0 && <span className="absolute right-0.5 top-0.5 grid h-4 min-w-4 place-items-center rounded-full bg-accent px-1 text-[10px] font-bold text-white">{cartCount}</span>}
             </Link>
             <Link href="/profile" className="ml-1 rounded-full p-0.5" style={{ background: "var(--brand-gradient)" }}>

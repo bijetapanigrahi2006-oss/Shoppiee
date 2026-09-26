@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import { cookies } from "next/headers";
 import { Outfit, Plus_Jakarta_Sans } from "next/font/google";
 import { DISPLAY_COOKIE, parseDisplay } from "@/lib/display";
+import { PressEffects } from "@/components/ui/effects";
 import "./globals.css";
 
 const jakarta = Plus_Jakarta_Sans({ subsets: ["latin"], variable: "--font-jakarta" });
@@ -34,7 +35,10 @@ export default async function RootLayout({ children }: { children: React.ReactNo
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
-      <body className="min-h-screen">{children}</body>
+      <body className="min-h-screen">
+        {children}
+        <PressEffects />
+      </body>
     </html>
   );
 }
